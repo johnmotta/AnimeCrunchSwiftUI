@@ -1,6 +1,6 @@
 # AnimeCrunchSwiftUI
 
-AnimeCrunchSwiftUI is a Crunchyroll clone app, crafted to hone development skills in Xcode. Currently, the app is in its initial development phase, with only the "front-end" part implemented. We've utilized the MVVM architecture and Test-Driven Development (TDD) to ensure clean and efficient code, along with smooth navigation between screens.
+AnimeCrunchSwiftUI is a Crunchyroll clone app, crafted to hone development skills in Xcode. Currently, the app is in its initial development phase, with only the frontend part implemented. We've utilized the MVVM architecture and Test-Driven Development (TDD) to ensure clean and efficient code, along with smooth navigation between screens.
 
 ## Features
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVjZGVjNzgwM2U1NTQ3YjM3ZTk0MzUwMjE1YTNiNjk0OWVhOGU5MSZjdD1n/LdPNQUak4725Slsbf6/giphy.gif" width="300" height="600" align="right">
